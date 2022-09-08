@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="10 Руководство [АУ]">
+    <Unit Name="*Бармотин Алексей Сергеевич" Phone1="6001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Красновский Василий Васильевич" Phone1="6002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Степаненко Виктор Иванович" Phone1="6003" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 Персонал [АУ]">
+    <Unit Name="*Селицкая Светлана Ивановна" Phone1="6000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сычев Евгений Анатольевич" Phone1="6090" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Областная энергогазинспекция [АУ]">
+    <Unit Name="*Семенов Владимир Михайлович" Phone1="6020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Щенников Евгений Анатольевич" Phone1="6021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Яковлева Татьяна Михайловна" Phone1="6030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Секретарев Дмитрий Владимирович" Phone1="6040" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="13 Отдел БУПиО [АУ]">
+    <Unit Name="*Москалева Юлия Николаевна" Phone1="6004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сиваева Екатерина Николаевна" Phone1="6010" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Горох Илона Сергеевна" Phone1="6100" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="14 Кадры [АУ]">
+    <Unit Name="*Марченко Ольга Николаевна" Phone1="6091" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="15 Отдел АСУ [АУ]">
+    <Unit Name="*Юрков Андрей Викторович" Phone1="6080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Игнатович Артур Владимирович" Phone1="6081" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="16 ПТО [АУ]">
+    <Unit Name="*Леончик Александр Николаевич" Phone1="6050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Веретенникова Жанна Алексеевна" Phone1="6060" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="17 Лаборатория [АУ]">
+    <Unit Name="*Юшкевич Михаил Михайлович" Phone1="6120" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="18 ГЭРЗиСХО [АУ]">
+    <Unit Name="*Кокотова Татьяна Леонидовна" Phone1="6070" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="19 АТУ [АУ]">
+    <Unit Name="*Лыгин Александр Юрьевич" Phone1="6110" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="20 Бобруйское МрО/Управление">
+    <Unit Name="*Марчук Валерий Иванович" Phone1="6501" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="21 Кричевское МрО/Управление">
+    <Unit Name="*Курбатов Вадим Олегович" Phone1="6701" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="22 Могилевское МрО/Управление">
+    <Unit Name="*Толкачев Сергей Николаевич" Phone1="6301" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

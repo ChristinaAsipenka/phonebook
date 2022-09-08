@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="01 Руководство [АУ]">
+    <Unit Name="*Василевский Сергей Петрович" Phone1="5001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гулевич Александр Александрович" Phone1="5002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Табунов Сергей Николаевич" Phone1="5003" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="02 Персонал [АУ]">
+    <Unit Name="*Дробышевская Ольга Александровна" Phone1="5000" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="03 Энергогазинспекция [АУ]">
+    <Unit Name="*Афанасьев Михаил Григорьевич" Phone1="5021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кочергин Николай Сергеевич" Phone1="5022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кузнецов Вячеслав Александрович" Phone1="5023" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="04 Бухгалтерия [АУ]">
+    <Unit Name="*Готенко Инна Юрьевна" Phone1="5004" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="05 ПЭО [АУ]">
+    <Unit Name="*Чулаевская Ирина Александровна" Phone1="5100" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="06 Отдел ПОиКР [АУ]">
+    <Unit Name="*Королева Елена Анатольевна" Phone1="5090" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="07 Сектор КР [АУ]">
+    <Unit Name="*Алешкевич Лариса Григорьевна" Phone1="5091" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="08 Сектор ОТ, ПЭБ [АУ]">
+    <Unit Name="*Лысый Константин Федорович" Phone1="5060" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="09 Отдел АСУиС [АУ]">
+    <Unit Name="*Рвачев Юрий Валентинович" Phone1="5080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Верас Дмитрий Федорович" Phone1="5082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Желобанов Андрей Валентинович" Phone1="5083" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Пранович Вадим Викторович" Phone1="5081" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="10 АХО [АУ]">
+    <Unit Name="*Боброва Татьяна Николаевна" Phone1="5070" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 Служба АТ [АУ]">
+    <Unit Name="*Голован Алексей Александрович" Phone1="5110" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Минское МрО ЭУ/Управление">
+    <Unit Name="*Тростянко Наталья Борисовна" Phone1="5301" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="13 Минское МрО ТУ/Управление">
+    <Unit Name="*Сухоцкий Игорь Леонидович" Phone1="5302" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="14 Минское МрО ГУ/Персонал">
+    <Unit Name="*Швако Татьяна Владимировна" Phone1="5303" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="15 МрО Минского района/Управление">
+    <Unit Name="*Воронцов Андрей Эрнестович" Phone1="5304" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="16 Борисовское МрО/Управление">
+    <Unit Name="*Шишпаренок Николай Николаевич" Phone1="5310" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="17 Молодечненское МрО/Управление">
+    <Unit Name="*Бобрик Александр Павлович" Phone1="5312" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="18 Слуцкое МрО/Управление">
+    <Unit Name="*Волот Николай Михайлович" Phone1="5311" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="19 Столбцовское МрО/Управление">
+    <Unit Name="*Герасимович Анатолий Евгеньевич" Phone1="5313" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

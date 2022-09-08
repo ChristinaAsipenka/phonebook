@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="10 Руководство [АУ]">
+    <Unit Name="*Малиновский Александр Михайлович" Phone1="4001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Хоружий Владимир Александрович" Phone1="4002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Деюк Виктор Геннадьевич" Phone1="4003" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 Персонал [АУ]">
+    <Unit Name="*Евсейчик Ядвига Феликсовна" Phone1="4000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Стельмашенко Анна Адамовна" Phone1="4006" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Карпук Геннадий Валентинович" Phone1="4061" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Областная энергогазинспекция [АУ]">
+    <Unit Name="*Кудрявцев Николай Анатольевич" Phone1="4005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сошко Дмитрий Васильевич" Phone1="4040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Коншин Александр Николаевич" Phone1="4020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Залога Андрей Антонович" Phone1="4030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Давкшис Екатерина Андреевна" Phone1="4045" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шкленская Данута Тадеушевна" Phone1="4049" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шока Андрей Иванович" Phone1="4043" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="13 Отдел БУПиО [АУ]">
+    <Unit Name="*Карпуть Марина Валерьевна" Phone1="4004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Косолапова Инна Марковна" Phone1="4014" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Аксенюк Галина Витольдовна" Phone1="4013" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Дубровская Дарья Олеговна" Phone1="4012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Карпуть Алексей Аркадьевич" Phone1="4101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Яскевич Ольга Павловна" Phone1="4102" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="14 Юр. отдел [АУ]">
+    <Unit Name="*Таянко Олег Александрович" Phone1="4090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Чернюк Сергей Анатольевич" Phone1="4092" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="15 Отдел АСУ [АУ]">
+    <Unit Name="*Канаев Александр Николаевич" Phone1="4080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Улейчик Юрий Валерьевич" Phone1="4082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Новичек Дмитрий Константинович" Phone1="4081" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="16 ПТО [АУ]">
+    <Unit Name="*Косолапов Игорь Александрович" Phone1="4050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Стасюк Елена Эдуардовна" Phone1="4054" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сильванович Надежда Владимировна" Phone1="4053" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Новичек Татьяна Александровна" Phone1="4052" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="17 Лаборатория [АУ]">
+    <Unit Name="*Федорович Владимир Аркадьевич" Phone1="4120" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="18 АХО [АУ]">
+    <Unit Name="*Зенюк Иван Иванович" Phone1="4070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Загорская Дарья Геннадьевна" Phone1="4072" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Демиш Александр Валерьевич" Phone1="4073" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="19 Гродненское МрО/Управление">
+    <Unit Name="*Шока Иван Вацлавович" Phone1="4401" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Рушницкий Сергей Михайлович" Phone1="4402" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="20 Гродненское МрО/Гродненская РЭГИ">
+    <Unit Name="*Рыжко Сергей Викторович" Phone1="4460" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="21 Волковысское МрО/Управление">
+    <Unit Name="*Селивонюк Елена Михайловна" Phone1="4301" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="22 Лидское МрО/Управление">
+    <Unit Name="*Шестак Александр Иванович" Phone1="4501" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="23 Островецкое МрО/Управление">
+    <Unit Name="*Харитонов Владимир Анатольевич" Phone1="4601" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="24 Островецкое МрО/Сморгонская РЭГИ">
+    <Unit Name="*Устинович Эдуард Владимирович" Phone1="4670" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

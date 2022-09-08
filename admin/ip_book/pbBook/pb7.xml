@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="01 Руководство ГЭГН/Руководство">
+    <Unit Name="*Озерец Александр Александрович" Phone1="7001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Лосенков Дмитрий Михайлович" Phone1="7002" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="02 Отдел контроля за ДОиОГ/Персонал">
+    <Unit Name="*Жук Татьяна Валерьевна" Phone1="7005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Захаревич Ирина Ивановна" Phone1="7000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Селивонец Оксана Геннадьевна" Phone1="7006" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="03 Отдел КРиПО/Персонал">
+    <Unit Name="*Кухаренко Валерий Иванович" Phone1="7090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Стебунова Лариса Степановна" Phone1="7092" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Летяго Светлана Сергеевна" Phone1="7093" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="04 Отдел КРиПО/Сектор ПО">
+    <Unit Name="*Турло Александр Павлович" Phone1="7091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ситник Юлия Сергеевна" Phone1="7094" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="05 Управление БУФТиЗП/Персонал">
+    <Unit Name="*Слободкина Юлия Викторовна" Phone1="7004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Пунько Елена Николаевна" Phone1="7010" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сидо Ольга Вячеславовна" Phone1="7011" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="06 Управление БУФТиЗП/Сектор ТиЗП">
+    <Unit Name="*Реентович Светлана Валерьевна" Phone1="7012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шерикова Татьяна Александровна" Phone1="7013" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="07 Управление БУФТиЗП/ПЭ сектор">
+    <Unit Name="*Петруша Людмила Валерьевна" Phone1="7014" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Собалевская Марина Сергеевна" Phone1="7015" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="08 Отдел ЭТИ/Персонал">
+    <Unit Name="*Лебедев Артур Владимирович" Phone1="7020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Шинкевич Виталий Викторович" Phone1="7021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Леготин Андрей Владимирович" Phone1="7023" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Евстигнеев Юрий Николаевич" Phone1="7024" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="09 Отдел ТТИ/Персонал">
+    <Unit Name="*Стасенко Сергей Владимирович" Phone1="7030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Жук Владимир Тихонович" Phone1="7031" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Ковалёв Владимир Михайлович" Phone1="7032" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="10 Отдел ГН/Персонал">
+    <Unit Name="*Захаревич Юрий Владимирович" Phone1="7040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Варонька Наталья Константиновна" Phone1="7041" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Жилко Кирилл Александрович" Phone1="7042" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 ПТО/Персонал">
+    <Unit Name="*Коновалов Сергей Леонидович" Phone1="7050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Уласик Денис Михайлович" Phone1="7051" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кузьмич Анастасия Ивановна" Phone1="7054" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Алисиевич Юлия Петровна" Phone1="7053" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Отдел ОТПБиГО/Персонал">
+    <Unit Name="*Хильман Наталья Викторовна" Phone1="7060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Денисюк Александр Александрович" Phone1="7061" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Зорин Владимир Глебович" Phone1="7100" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="13 АХО/Персонал">
+    <Unit Name="*Сергеенко Дмитрий Николаевич" Phone1="7070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Алешко Антон Александрович" Phone1="7071" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гринчик Надежда Владимировна" Phone1="7072" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Колбаско Геннадий Владимирович" Phone1="7073" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="14 Отдел АСУ/Персонал">
+    <Unit Name="*Семашко Яна Геннадьевна" Phone1="7080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Свирский Дмитрий Александрович" Phone1="7081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Мороз Анна Владимировна" Phone1="7082" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="15 Отдел АСУ/Сектор РИТ">
+    <Unit Name="*Бородич Денис Васильевич" Phone1="2780" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Бутько Кристина Александровна" Phone1="2781" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

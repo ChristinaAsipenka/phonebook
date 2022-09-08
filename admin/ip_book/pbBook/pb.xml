@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="01 Приемная+ДО">
+    <Unit Name="[*БР] Ляхович Людмила Михайловна" Phone1="1000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Секретарь приемной руководителя" Phone1="2000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Волкова Галина Васильевна" Phone1="3000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Евсейчик Ядвига Феликсовна" Phone1="4000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Селицкая Светлана Ивановна" Phone1="6000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Дробышевская Ольга Александровна" Phone1="5000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Жук Татьяна Валерьевна" Phone1="7005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Захаревич Ирина Ивановна" Phone1="7000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Селивонец Оксана Геннадьевна" Phone1="7006" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="02 Руководство">
+    <Unit Name="[*БР] Дейко Олег Валерьевич" Phone1="1001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Бакалкин Юрий Александрович" Phone1="1002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Редько Евгений Иванович" Phone1="1003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Василевский Андрей Александрович" Phone1="2001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Квачонок Андрей Петрович" Phone1="2002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Красовский Антон Федорович" Phone1="2003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Новацкий Семен Арсеньевич" Phone1="3001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Казак Вячеслав Анатольевич" Phone1="3003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Мастепанов Дмитрий Евгеньевич" Phone1="3002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Малиновский Александр Михайлович" Phone1="4001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Хоружий Владимир Александрович" Phone1="4002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Деюк Виктор Геннадьевич" Phone1="4003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Бармотин Алексей Сергеевич" Phone1="6001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Секретарев Дмитрий Владимирович" Phone1="6003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Красновский Василий Васильевич" Phone1="6002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Василевский Сергей Петрович" Phone1="5001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Гулевич Александр Александрович" Phone1="5002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Табунов Сергей Николаевич" Phone1="5003" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Озерец Александр Александрович" Phone1="7001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Лосенков Дмитрий Михайлович" Phone1="7002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Кнотько Егор Егорович" Phone1="7003" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="03 Бухгалтерия">
+    <Unit Name="[*БР] Аксенова Ирина Сергеевна" Phone1="1004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Леванова Татьяна Игоревна" Phone1="1011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Лапехо Юлия Константиновна" Phone1="2004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Гуринова Светлана Валерьевна" Phone1="2011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Венскович Алла Францевна" Phone1="2012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Спиридонова Екатерина Леонидовна" Phone1="2013" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Забродская Елена Анатольевна" Phone1="3004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Иваненко Александра Владимировна" Phone1="3011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Карпуть Марина Валерьевна" Phone1="4004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Косолапова Инна Марковна" Phone1="4014" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Аксенюк Галина Витольдовна" Phone1="4013" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Дубровская Дарья Олеговна" Phone1="4012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Москалева Юлия Николаевна" Phone1="6004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Сиваева Екатерина Николаевна" Phone1="6010" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Готенко Инна Юрьевна" Phone1="5004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Слободкина Юлия Викторовна" Phone1="7004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Реентович Светлана Валерьевна" Phone1="7012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Пунько Елена Николаевна" Phone1="7010" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Шерикова Татьяна Александровна" Phone1="7013" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Сидо Ольга Вячеславовна" Phone1="7011" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="04 ПЭО">
+    <Unit Name="[*БР] Байко Инна Васильевна" Phone1="1100" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Якубенко Степан Иванович" Phone1="2102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Демидова Марина Викторовна" Phone1="2101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Калинина Татьяна Владимировна" Phone1="3100" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Карпуть Алексей Аркадьевич" Phone1="4101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Яскевич Ольга Павловна" Phone1="4102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Горох Илона Сергеевна" Phone1="6100" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Чулаевская Ирина Александровна" Phone1="5100" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Петруша Людмила Валерьевна" Phone1="7014" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Собалевская Марина Сергеевна" Phone1="7015" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="05 Правовое обеспечение и кадры">
+    <Unit Name="[*БР] Гурина Ольга Валерьевна" Phone1="1091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Тропец Ирина Анатольевна" Phone1="1090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Семашко Дмитрий Михайлович" Phone1="2092" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Морозова Анна Федоровна" Phone1="2091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Лерман Диана Станиславовна" Phone1="2093" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Гришаев Андрей Евгеньевич" Phone1="3090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Данич Виктория Викторовна" Phone1="3091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Таянко Олег Александрович" Phone1="4090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Стельмашенко Анна Адамовна" Phone1="4006" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Чернюк Сергей Анатольевич" Phone1="4092" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Марченко Ольга Николаевна" Phone1="6091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Сычев Евгений Анатольевич" Phone1="6090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Королева Елена Анатольевна" Phone1="5090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Алешкевич Лариса Григорьевна" Phone1="5091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Кухаренко Валерий Иванович" Phone1="7090" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Турло Александр Павлович" Phone1="7091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Ситник Юлия Сергеевна" Phone1="7094" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Стебунова Лариса Степановна" Phone1="7092" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Летяго Светлана Сергеевна" Phone1="7093" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="06 ПТО">
+    <Unit Name="[*БР] Прокопчук Денис Васильевич" Phone1="1050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Пачковский Андрей Чеславович" Phone1="2050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Грушина Светлана Анатольевна" Phone1="2051" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Смолякова Ольга Александровна" Phone1="2052" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Адарченко Ирина Петровна" Phone1="3050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Косолапов Игорь Александрович" Phone1="4050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Стасюк Елена Эдуардовна" Phone1="4054" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Сильванович Надежда Владимировна" Phone1="4053" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Новичек Татьяна Александровна" Phone1="4052" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Леончик Александр Николаевич" Phone1="6050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Коновалов Сергей Леонидович" Phone1="7050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Уласик Денис Михайлович" Phone1="7051" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Кузьмич Анастасия Ивановна" Phone1="7054" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Алисиевич Юлия Петровна" Phone1="7053" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="07 АХО">
+    <Unit Name="[*БР] Горник Геннадий Иванович" Phone1="1071" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Смольская Илона Александровна" Phone1="2071" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Наумова Светлана Валерьевна" Phone1="2072" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Балащенко Светлана Петровна" Phone1="3070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Зенюк Иван Иванович" Phone1="4070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Загорская Дарья Геннадьевна" Phone1="4072" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Кокотова Татьяна Леонидовна" Phone1="6070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Боброва Татьяна Николаевна" Phone1="5070" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Алешко Антон Александрович" Phone1="7071" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Гринчик Надежда Владимировна" Phone1="7072" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Колбаско Геннадий Владимирович" Phone1="7073" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="08 ОАСУ ">
+    <Unit Name="[*БР] Абрамчук Николай Викторович" Phone1="1080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Казун Анатолий Семенович" Phone1="1081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Севрюков Игорь Владимирович" Phone1="2080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Стычинский Игорь Николаевич" Phone1="2082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Онухов Павел Семенович" Phone1="2081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Симаков Андрей Анатольевич" Phone1="3080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Сопильняк Александр Александрович" Phone1="3082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Канаев Александр Николаевич" Phone1="4080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Улейчик Юрий Валерьевич" Phone1="4082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Юрков Андрей Викторович" Phone1="6080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Игнатович Артур Владимирович" Phone1="6081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Рвачев Юрий Валентинович" Phone1="5080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Верас Дмитрий Федорович" Phone1="5082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Желобанов Андрей Валентинович" Phone1="5083" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН] Пранович Вадим Викторович" Phone1="5081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Семашко Яна Геннадьевна" Phone1="7080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Бородич Денис Васильевич" Phone1="2780" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Свирский Дмитрий Александрович" Phone1="7081" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Бутько Кристина Александровна" Phone1="2781" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Мороз Анна Владимировна" Phone1="7082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Спиридонов Сергей Александрович" Phone1="2782" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="09 ОТ и ПБ">
+    <Unit Name="[*ВТ] Кротенок Василий Геннадьевич" Phone1="2060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Плешкунов Денис Геннадьевич" Phone1="3060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Карпук Геннадий Валентинович" Phone1="4061" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Веретенникова Жанна Алексеевна" Phone1="6060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Лысый Константин Федорович" Phone1="5060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Хильман Наталья Викторовна" Phone1="7060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Денисюк Александр Александрович" Phone1="7061" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Зорин Владимир Глебович" Phone1="7100" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="10 Электротехническая инспекция">
+    <Unit Name="[*БР] Циуля Сергей Александрович" Phone1="1020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Педич Александр Викторович" Phone1="1022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР] Зубрицкая Ольга Владимировна" Phone1="1025" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Костянко Андрей Григорьевич" Phone1="2005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Редьков Алексей Михайлович" Phone1="2020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Банифатова Татьяна Сергеевна" Phone1="2022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Тяпко Александр Викторович" Phone1="2021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Барзов Виталий Сергеевич" Phone1="2031" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Киселёв Николай Николаевич" Phone1="3020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Леташков Виталий Александрович" Phone1="3021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ] Цыганкова Галина Ивановна" Phone1="3022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Рушницкий Сергей Михайлович" Phone1="4005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Коншин Александр Николаевич" Phone1="4020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Семенов Владимир Михайлович" Phone1="6020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ] Щенников Евгений Анатольевич" Phone1="6021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Афанасьев Михаил Григорьевич" Phone1="5021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Лебедев Артур Владимирович" Phone1="7020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Шинкевич Виталий Викторович" Phone1="7021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Леготин Андрей Владимирович" Phone1="7023" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Евстигнеев Юрий Николаевич" Phone1="7024" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Вайтехович Владимир Владимирович" Phone1="7022" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 Теплотехническая инспекция">
+    <Unit Name="[*ВТ] Арлюкевич Роман Юрьевич" Phone1="2030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Житко Оксана Леонидовна" Phone1="3030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Залога Андрей Антонович" Phone1="4030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Яковлева Татьяна Михайловна" Phone1="6030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Кочергин Николай Сергеевич" Phone1="5022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Стасенко Сергей Владимирович" Phone1="7030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Жук Владимир Тихонович" Phone1="7031" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Ковалёв Владимир Михайлович" Phone1="7032" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Газовый надзор">
+    <Unit Name="[*ВТ] Терлецкий Юрий Михайлович" Phone1="2040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Чуянов Сергей Владимирович" Phone1="3040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Сошко Дмитрий Васильевич" Phone1="4040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Давкшис Екатерина Андреевна" Phone1="4045" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Шкленская Данута Тадеушевна" Phone1="4049" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР] Шока Андрей Иванович" Phone1="4043" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Кузнецов Вячеслав Александрович" Phone1="5023" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*АУ] Захаревич Юрий Владимирович" Phone1="7040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Варонька Наталья Константиновна" Phone1="7041" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[АУ] Жилко Кирилл Александрович" Phone1="7042" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="13 Лаборатория">
+    <Unit Name="[*БР] Бикетов Иван Петрович" Phone1="1120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Пискунов Андрей Геннадьевич" Phone1="2120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ] Девяткова Ксения Николаевна" Phone1="2121" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Петренко Владислав Николаевич" Phone1="3120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Федорович Владимир Аркадьевич" Phone1="4120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Юшкевич Михаил Михайлович" Phone1="6120" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="14 Транспортные подразделения">
+    <Unit Name="[*БР] Головейко Иван Иванович" Phone1="1110" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ВТ] Лобкович Владимир Михайлович" Phone1="2110" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГМ] Бродиневский Сергей Анатольевич" Phone1="3110" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*ГР] Демиш Александр Валерьевич" Phone1="4073" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МГ] Лыгин Александр Юрьевич" Phone1="6110" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[*МН] Голован Алексей Александрович" Phone1="5110" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="15 МрО">
+    <Unit Name="[БР/Пн МрО] Лебедь Андрей Николаевич" Phone1="1501" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР/Бр МрО] Касьмина Вячеслав Алексеевич" Phone1="1401" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР/Бр МрО] Куликовский Владимир Михайлович" Phone1="1302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[БР/Бр МрО] Науменко Владимир Владимирович" Phone1="1301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Ор МрО] Сорокин Владимир Владимирович" Phone1="2501" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Пл МрО] Кулагин Алексей Геннадьевич" Phone1="2601" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Гл МрО] Латышонок Валерий Георгиевич" Phone1="2401" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Вт МрО] Хатенько Константин Николаевич" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Вт МрО] Сазонов Иван Евгеньевич" Phone1="2302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Вт МрО] Лапоухова Татьяна Владимировна" Phone1="2300" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ВТ/Вт МрО] Качан Анастасия Геннадьевна" Phone1="2303" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ/Гм МрО] Вержбовский Сергей Вадимович" Phone1="3301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ/Мз МрО] Канаш Сергей Фёдорович" Phone1="3501" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ/Рч МрО] Москвичев Виктор Викторович" Phone1="3401" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ/Жл МрО] Кушнеров Александр Васильевич" Phone1="3601" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГМ/Гм МрО] Могилевчик Михаил Александрович" Phone1="3302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Ос МрО] Харитонов Владимир Анатольевич" Phone1="4601" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Гр МрО] Шока Иван Вацлавович" Phone1="4401" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Вл МрО] Селивонюк Елена Михайловна" Phone1="4301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Гр МрО] Якимович Дмитрий Михайлович" Phone1="4402" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Вл МрО] Нестерович Валерий Федорович" Phone1="4302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Гр МрО] Шурпа Татьяна Николаевна" Phone1="4400" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ/Кр МрО] Курбатов Вадим Олегович" Phone1="6701" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ/Мг МрО] Толкачев Сергей Николаевич" Phone1="6301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МГ/Бб МрО] Марчук Валерий Иванович" Phone1="6501" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Мр МрО] Воронцов Андрей Эрнестович" Phone1="5304" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Мн МрО] Швако Татьяна Владимировна" Phone1="5303" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Мн МрО] Тростянко Наталья Борисовна" Phone1="5301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Бр МрО] Шишпаренок Николай Николаевич" Phone1="5310" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Ст МрО] Герасимович Анатолий Евгеньевич" Phone1="5313" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Сл МрО] Волот Николай Михайлович" Phone1="5311" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Мн МрО] Сухоцкий Игорь Леонидович" Phone1="5302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[МН/Мл МрО] Бобрик Александр Павлович" Phone1="5312" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="16 РЭГИ">
+    <Unit Name="[ГР/Ос МрО/См] Устинович Эдуард Владимирович" Phone1="4670" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="[ГР/Гр МрО/Гр] Рыжко Сергей Викторович" Phone1="4460" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

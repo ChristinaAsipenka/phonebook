@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="01 Руководство [АУ]">
+    <Unit Name="*Василевский Андрей Александрович" Phone1="2001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Квачонок Андрей Петрович" Phone1="2002" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Красовский Антон Федорович" Phone1="2003" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="02 Персонал [АУ]">
+    <Unit Name="*Секретарь приемной руководителя" Phone1="2000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Семашко Дмитрий Михайлович" Phone1="2092" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Морозова Анна Федоровна" Phone1="2091" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Лерман Диана Станиславовна" Phone1="2093" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Кротенок Василий Геннадьевич" Phone1="2060" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Смольская Илона Александровна" Phone1="2071" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Наумова Светлана Валерьевна" Phone1="2072" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="03 Областная энергогазинспекция [АУ]">
+    <Unit Name="*Костянко Андрей Григорьевич" Phone1="2005" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Редьков Алексей Михайлович" Phone1="2020" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Арлюкевич Роман Юрьевич" Phone1="2030" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Терлецкий Юрий Михайлович" Phone1="2040" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Банифатова Татьяна Сергеевна" Phone1="2022" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Тяпко Александр Викторович" Phone1="2021" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Барзов Виталий Сергеевич" Phone1="2031" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="04 Отдел БУПиО [АУ]">
+    <Unit Name="*Лапехо Юлия Константиновна" Phone1="2004" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Гуринова Светлана Валерьевна" Phone1="2011" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Венскович Алла Францевна" Phone1="2012" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Спиридонова Екатерина Леонидовна" Phone1="2013" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Якубенко Степан Иванович" Phone1="2102" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Демидова Марина Викторовна" Phone1="2101" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="05 Группа АСУ [АУ]">
+    <Unit Name="*Севрюков Игорь Владимирович" Phone1="2080" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Стычинский Игорь Николаевич" Phone1="2082" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Онухов Павел Семенович" Phone1="2081" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="06 ПТГ [АУ]">
+    <Unit Name="*Пачковский Андрей Чеславович" Phone1="2050" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Грушина Светлана Анатольевна" Phone1="2051" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Смолякова Ольга Александровна" Phone1="2052" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="07 Лаборатория [АУ]">
+    <Unit Name="*Пискунов Андрей Геннадьевич" Phone1="2120" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Девяткова Ксения Николаевна" Phone1="2121" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="08 АТУ [АУ]">
+    <Unit Name="*Лобкович Владимир Михайлович" Phone1="2110" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="09 Вт МрО [Уп]">
+    <Unit Name="*Хатенько Константин Николаевич" Phone1="2301" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Сазонов Иван Евгеньевич" Phone1="2302" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Лапоухова Татьяна Владимировна" Phone1="2300" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Качан Анастасия Геннадьевна" Phone1="2303" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="10 Гл МрО [Уп]">
+    <Unit Name="*Латышонок Валерий Георгиевич" Phone1="2401" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="11 Ор МрО [Уп]">
+    <Unit Name="*Сорокин Владимир Владимирович" Phone1="2501" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="12 Пл МрО [Уп]">
+    <Unit Name="*Кулагин Алексей Геннадьевич" Phone1="2601" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>

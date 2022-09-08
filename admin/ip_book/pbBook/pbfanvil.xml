@@ -1,0 +1,2059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneBook>
+  <DirectoryEntry>
+    <Name>[*БР] Ляхович Людмила Михайловна</Name>
+    <Telephone>1000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Дейко Олег Валерьевич</Name>
+    <Telephone>1001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Бакалкин Юрий Александрович</Name>
+    <Telephone>1002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Редько Евгений Иванович</Name>
+    <Telephone>1003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Аксенова Ирина Сергеевна</Name>
+    <Telephone>1004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Леванова Татьяна Игоревна</Name>
+    <Telephone>1011</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Сидорук Марина Евгеньевна</Name>
+    <Telephone>1012</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Пашко Алеся Сергеевна</Name>
+    <Telephone>1013</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Дорожко Вероника Михайловна</Name>
+    <Telephone>1101</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Байко Инна Васильевна</Name>
+    <Telephone>1100</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Гурина Ольга Валерьевна</Name>
+    <Telephone>1091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Тропец Ирина Анатольевна</Name>
+    <Telephone>1090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Прокопчук Денис Васильевич</Name>
+    <Telephone>1050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Горник Геннадий Иванович</Name>
+    <Telephone>1071</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Абрамчук Николай Викторович</Name>
+    <Telephone>1080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Казун Анатолий Семенович</Name>
+    <Telephone>1081</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Циуля Сергей Александрович</Name>
+    <Telephone>1020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Педич Александр Викторович</Name>
+    <Telephone>1022</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Соловьева Лариса Ивановна</Name>
+    <Telephone>1021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР] Зубрицкая Ольга Владимировна</Name>
+    <Telephone>1025</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Напреев Сергей Николаевич</Name>
+    <Telephone>1030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Савчук Александр Викторович</Name>
+    <Telephone>1040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Бикетов Иван Петрович</Name>
+    <Telephone>1120</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*БР] Головейко Иван Иванович</Name>
+    <Telephone>1110</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Бр_Уп] Касьмина Вячеслав Алексеевич</Name>
+    <Telephone>1401</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Бр_Уп] Игнатович Елена Викторовна</Name>
+    <Telephone>1303</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Бр_Уп] Дмитрук Виктория Юрьевна</Name>
+    <Telephone>1300</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Бр_Уп] Науменко Владимир Владимирович</Name>
+    <Telephone>1301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Бр_Уп] Куликовский Владимир Михайлович</Name>
+    <Telephone>1302</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[БР_Пн_Уп] Лебедь Андрей Николаевич</Name>
+    <Telephone>1501</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Секретарь приемной руководителя</Name>
+    <Telephone>2000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Василевский Андрей Александрович</Name>
+    <Telephone>2001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Квачонок Андрей Петрович</Name>
+    <Telephone>2002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Красовский Антон Федорович</Name>
+    <Telephone>2003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Лапехо Юлия Константиновна</Name>
+    <Telephone>2004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Гуринова Светлана Валерьевна</Name>
+    <Telephone>2011</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Венскович Алла Францевна</Name>
+    <Telephone>2012</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Спиридонова Екатерина Леонидовна</Name>
+    <Telephone>2013</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Якубенко Степан Иванович</Name>
+    <Telephone>2102</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Демидова Марина Викторовна</Name>
+    <Telephone>2101</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Семашко Дмитрий Михайлович</Name>
+    <Telephone>2092</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Морозова Анна Федоровна</Name>
+    <Telephone>2091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Лерман Диана Станиславовна</Name>
+    <Telephone>2093</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Пачковский Андрей Чеславович</Name>
+    <Telephone>2050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Грушина Светлана Анатольевна</Name>
+    <Telephone>2051</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Смолякова Ольга Александровна</Name>
+    <Telephone>2052</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Смольская Илона Александровна</Name>
+    <Telephone>2071</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Наумова Светлана Валерьевна</Name>
+    <Telephone>2072</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Севрюков Игорь Владимирович</Name>
+    <Telephone>2080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Стычинский Игорь Николаевич</Name>
+    <Telephone>2082</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Онухов Павел Семенович</Name>
+    <Telephone>2081</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Кротенок Василий Геннадьевич</Name>
+    <Telephone>2060</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Костянко Андрей Григорьевич</Name>
+    <Telephone>2005</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Редьков Алексей Михайлович</Name>
+    <Telephone>2020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Банифатова Татьяна Сергеевна</Name>
+    <Telephone>2022</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Тяпко Александр Викторович</Name>
+    <Telephone>2021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Барзов Виталий Сергеевич</Name>
+    <Telephone>2031</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Арлюкевич Роман Юрьевич</Name>
+    <Telephone>2030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Терлецкий Юрий Михайлович</Name>
+    <Telephone>2040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Пискунов Андрей Геннадьевич</Name>
+    <Telephone>2120</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ] Девяткова Ксения Николаевна</Name>
+    <Telephone>2121</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ВТ] Лобкович Владимир Михайлович</Name>
+    <Telephone>2110</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Пл_Уп] Кулагин Алексей Геннадьевич</Name>
+    <Telephone>2601</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Гл_Уп] Латышонок Валерий Георгиевич</Name>
+    <Telephone>2401</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Вт_Уп] Хатенько Константин Николаевич</Name>
+    <Telephone>2301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Ор_Уп] Сорокин Владимир Владимирович</Name>
+    <Telephone>2501</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Вт_Уп] Сазонов Иван Евгеньевич</Name>
+    <Telephone>2302</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Вт_Уп] Лапоухова Татьяна Владимировна</Name>
+    <Telephone>2300</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ВТ_Вт_Уп] Качан Анастасия Геннадьевна</Name>
+    <Telephone>2303</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Волкова Галина Васильевна</Name>
+    <Telephone>3000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Новацкий Семен Арсеньевич</Name>
+    <Telephone>3001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Казак Вячеслав Анатольевич</Name>
+    <Telephone>3003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Мастепанов Дмитрий Евгеньевич</Name>
+    <Telephone>3002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Забродская Елена Анатольевна</Name>
+    <Telephone>3004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Иваненко Александра Владимировна</Name>
+    <Telephone>3011</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Калинина Татьяна Владимировна</Name>
+    <Telephone>3100</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Гришаев Андрей Евгеньевич</Name>
+    <Telephone>3090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Данич Виктория Викторовна</Name>
+    <Telephone>3091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Адарченко Ирина Петровна</Name>
+    <Telephone>3050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Балащенко Светлана Петровна</Name>
+    <Telephone>3070</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Симаков Андрей Анатольевич</Name>
+    <Telephone>3080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Сопильняк Александр Александрович</Name>
+    <Telephone>3082</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Плешкунов Денис Геннадьевич</Name>
+    <Telephone>3060</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Киселёв Николай Николаевич</Name>
+    <Telephone>3020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Леташков Виталий Александрович</Name>
+    <Telephone>3021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ] Цыганкова Галина Ивановна</Name>
+    <Telephone>3022</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Житко Оксана Леонидовна</Name>
+    <Telephone>3030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Чуянов Сергей Владимирович</Name>
+    <Telephone>3040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Петренко Владислав Николаевич</Name>
+    <Telephone>3120</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГМ] Бродиневский Сергей Анатольевич</Name>
+    <Telephone>3110</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Уп] Москвичев Виктор Викторович</Name>
+    <Telephone>3401</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Уп] Канаш Сергей Фёдорович</Name>
+    <Telephone>3501</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Уп] Вержбовский Сергей Вадимович</Name>
+    <Telephone>3301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Уп] Кушнеров Александр Васильевич</Name>
+    <Telephone>3601</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Уп] Могилевчик Михаил Александрович</Name>
+    <Telephone>3302</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Уп] Харлан Михаил Вячеславович</Name>
+    <Telephone>3502</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Уп] Яремчук Владимир Васильевич</Name>
+    <Telephone>3402</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Уп] Проничева Светлана Валентиновна</Name>
+    <Telephone>3602</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Уп] Дворник Марина Геннадьевна</Name>
+    <Telephone>3400</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Уп] Кузьмич Людмила Эрнстовна</Name>
+    <Telephone>3500</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Уп] Ерохова Ольга Петровна</Name>
+    <Telephone>3300</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Уп] Шацкая Инна Николаевна</Name>
+    <Telephone>3600</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Лл] Масло Николай Михайлович</Name>
+    <Telephone>3540</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Нр] Алексеенко Олег Иванович</Name>
+    <Telephone>3550</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Пт] Волосович Виктор Николаевич</Name>
+    <Telephone>3560</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Ел] Перевозчиков Александр Владимирович</Name>
+    <Telephone>3510</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Бр] Шульга Денис Иванович</Name>
+    <Telephone>3410</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Лв] Давыденко Юрий Аркадьевич</Name>
+    <Telephone>3420</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Хй] Гуцев Иван Иванович</Name>
+    <Telephone>3430</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Ок] Мельник Валерий Николаевич</Name>
+    <Telephone>3450</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Бд] Пырх Василий Павлович</Name>
+    <Telephone>3320</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Рг] Лепихов Александр Алексеевич</Name>
+    <Telephone>3620</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Чч] Колбасов Василий Григорьевич</Name>
+    <Telephone>3630</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Вт] Троянов Владимир Михайлович</Name>
+    <Telephone>3330</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Гм_Дб] Шевцов Вячеслав Александрович</Name>
+    <Telephone>3340</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Жл_Кр] Киреев Александр Климентьевич</Name>
+    <Telephone>3610</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Жт] Черный Сергей Сергеевич</Name>
+    <Telephone>3520</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Мз_Кл] Иовчик Василий Петрович</Name>
+    <Telephone>3530</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГМ_Рч_Св] Кузнецов Игорь Григорьевич</Name>
+    <Telephone>3440</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Щука Станислав Иванович</Name>
+    <Telephone>4340</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>22 Прочие</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Евсейчик Ядвига Феликсовна</Name>
+    <Telephone>4000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Малиновский Александр Михайлович</Name>
+    <Telephone>4001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Хоружий Владимир Александрович</Name>
+    <Telephone>4002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Деюк Виктор Геннадьевич</Name>
+    <Telephone>4003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Карпуть Марина Валерьевна</Name>
+    <Telephone>4004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Косолапова Инна Марковна</Name>
+    <Telephone>4014</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Аксенюк Галина Витольдовна</Name>
+    <Telephone>4013</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Дубровская Дарья Олеговна</Name>
+    <Telephone>4012</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Карпуть Алексей Аркадьевич</Name>
+    <Telephone>4101</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Яскевич Ольга Павловна</Name>
+    <Telephone>4102</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Таянко Олег Александрович</Name>
+    <Telephone>4090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Стельмашенко Анна Адамовна</Name>
+    <Telephone>4006</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Чернюк Сергей Анатольевич</Name>
+    <Telephone>4092</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Косолапов Игорь Александрович</Name>
+    <Telephone>4050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Стасюк Елена Эдуардовна</Name>
+    <Telephone>4054</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Сильванович Надежда Владимировна</Name>
+    <Telephone>4053</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Новичек Татьяна Александровна</Name>
+    <Telephone>4052</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Зенюк Иван Иванович</Name>
+    <Telephone>4070</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Загорская Дарья Геннадьевна</Name>
+    <Telephone>4072</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Канаев Александр Николаевич</Name>
+    <Telephone>4080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Улейчик Юрий Валерьевич</Name>
+    <Telephone>4082</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Карпук Геннадий Валентинович</Name>
+    <Telephone>4061</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Рушницкий Сергей Михайлович</Name>
+    <Telephone>4005</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Коншин Александр Николаевич</Name>
+    <Telephone>4020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Залога Андрей Антонович</Name>
+    <Telephone>4030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Сошко Дмитрий Васильевич</Name>
+    <Telephone>4040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Давкшис Екатерина Андреевна</Name>
+    <Telephone>4045</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Шкленская Данута Тадеушевна</Name>
+    <Telephone>4049</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР] Шока Андрей Иванович</Name>
+    <Telephone>4043</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Федорович Владимир Аркадьевич</Name>
+    <Telephone>4120</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*ГР] Демиш Александр Валерьевич</Name>
+    <Telephone>4073</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Ос_Уп] Харитонов Владимир Анатольевич</Name>
+    <Telephone>4601</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Вл_Уп] Селивонюк Елена Михайловна</Name>
+    <Telephone>4301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Гр_Уп] Шока Иван Вацлавович</Name>
+    <Telephone>4401</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Гр_Уп] Якимович Дмитрий Михайлович</Name>
+    <Telephone>4402</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Вл_Уп] Нестерович Валерий Федорович</Name>
+    <Telephone>4302</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Гр_Уп] Шурпа Татьяна Николаевна</Name>
+    <Telephone>4400</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Гр_Гр] Рыжко Сергей Викторович</Name>
+    <Telephone>4460</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[ГР_Ос_См] Устинович Эдуард Владимирович</Name>
+    <Telephone>4670</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Глатанков Виталий Анатольевич</Name>
+    <Telephone>6350</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>22 Прочие</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Фещенко Виктор Васильевич</Name>
+    <Telephone>6790</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>22 Прочие</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Селицкая Светлана Ивановна</Name>
+    <Telephone>6000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Бармотин Алексей Сергеевич</Name>
+    <Telephone>6001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Секретарев Дмитрий Владимирович</Name>
+    <Telephone>6003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Красновский Василий Васильевич</Name>
+    <Telephone>6002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Москалева Юлия Николаевна</Name>
+    <Telephone>6004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Сиваева Екатерина Николаевна</Name>
+    <Telephone>6010</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Горох Илона Сергеевна</Name>
+    <Telephone>6100</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Марченко Ольга Николаевна</Name>
+    <Telephone>6091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Сычев Евгений Анатольевич</Name>
+    <Telephone>6090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Леончик Александр Николаевич</Name>
+    <Telephone>6050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Кокотова Татьяна Леонидовна</Name>
+    <Telephone>6070</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Юрков Андрей Викторович</Name>
+    <Telephone>6080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Игнатович Артур Владимирович</Name>
+    <Telephone>6081</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Веретенникова Жанна Алексеевна</Name>
+    <Telephone>6060</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Семенов Владимир Михайлович</Name>
+    <Telephone>6020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ] Щенников Евгений Анатольевич</Name>
+    <Telephone>6021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Яковлева Татьяна Михайловна</Name>
+    <Telephone>6030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Гончаров Алексанр Петрович</Name>
+    <Telephone>6040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Юшкевич Михаил Михайлович</Name>
+    <Telephone>6120</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>13 Лаборатория</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МГ] Лыгин Александр Юрьевич</Name>
+    <Telephone>6110</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ_Бб_Уп] Марчук Валерий Иванович</Name>
+    <Telephone>6501</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ_Кр_Уп] Курбатов Вадим Олегович</Name>
+    <Telephone>6701</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ_Мг_Уп] Толкачев Сергей Николаевич</Name>
+    <Telephone>6301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ_Мг_Бл] Антонов Александр Сергеевич</Name>
+    <Telephone>6330</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МГ_Кр_Чр] Леонов Игорь Николаевич</Name>
+    <Telephone>6780</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>16 РЭГИ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Дробышевская Ольга Александровна</Name>
+    <Telephone>5000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Василевский Сергей Петрович</Name>
+    <Telephone>5001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Гулевич Александр Александрович</Name>
+    <Telephone>5002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Табунов Сергей Николаевич</Name>
+    <Telephone>5003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Готенко Инна Юрьевна</Name>
+    <Telephone>5004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Чулаевская Ирина Александровна</Name>
+    <Telephone>5100</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Королева Елена Анатольевна</Name>
+    <Telephone>5090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Алешкевич Лариса Григорьевна</Name>
+    <Telephone>5091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Боброва Татьяна Николаевна</Name>
+    <Telephone>5070</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Рвачев Юрий Валентинович</Name>
+    <Telephone>5080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Верас Дмитрий Федорович</Name>
+    <Telephone>5082</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Желобанов Андрей Валентинович</Name>
+    <Telephone>5083</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН] Пранович Вадим Викторович</Name>
+    <Telephone>5081</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Лысый Константин Федорович</Name>
+    <Telephone>5060</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Афанасьев Михаил Григорьевич</Name>
+    <Telephone>5021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Кочергин Николай Сергеевич</Name>
+    <Telephone>5022</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Кузнецов Вячеслав Александрович</Name>
+    <Telephone>5023</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*МН] Голован Алексей Александрович</Name>
+    <Telephone>5110</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>14 Транспортные подразделения</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Бр_Уп] Шишпаренок Николай Николаевич</Name>
+    <Telephone>5310</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Мр_Уп] Воронцов Андрей Эрнестович</Name>
+    <Telephone>5304</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Мн_Уп] Сухоцкий Игорь Леонидович</Name>
+    <Telephone>5302</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Сл_Уп] Волот Николай Михайлович</Name>
+    <Telephone>5311</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Ст_Уп] Герасимович Анатолий Евгеньевич</Name>
+    <Telephone>5313</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Мл_Уп] Бобрик Александр Павлович</Name>
+    <Telephone>5312</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Мн_Уп] Тростянко Наталья Борисовна</Name>
+    <Telephone>5301</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[МН_Мн_Пр] Швако Татьяна Владимировна</Name>
+    <Telephone>5303</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>15 МрО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Жук Татьяна Валерьевна</Name>
+    <Telephone>7005</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Захаревич Ирина Ивановна</Name>
+    <Telephone>7000</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Селивонец Оксана Геннадьевна</Name>
+    <Telephone>7006</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>01 Приемная+ДО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Озерец Александр Александрович</Name>
+    <Telephone>7001</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Лосенков Дмитрий Михайлович</Name>
+    <Telephone>7002</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Кнотько Егор Егорович</Name>
+    <Telephone>7003</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>02 Руководство</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Слободкина Юлия Викторовна</Name>
+    <Telephone>7004</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Реентович Светлана Валерьевна</Name>
+    <Telephone>7012</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Шерикова Татьяна Александровна</Name>
+    <Telephone>7013</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Пунько Елена Николаевна</Name>
+    <Telephone>7010</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Сидо Ольга Вячеславовна</Name>
+    <Telephone>7011</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>03 Бухгалтерия</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Петруша Людмила Валерьевна</Name>
+    <Telephone>7014</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Собалевская Марина Сергеевна</Name>
+    <Telephone>7015</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>04 ПЭО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Кухаренко Валерий Иванович</Name>
+    <Telephone>7090</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Турло Александр Павлович</Name>
+    <Telephone>7091</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Ситник Юлия Сергеевна</Name>
+    <Telephone>7094</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Стебунова Лариса Степановна</Name>
+    <Telephone>7092</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Летяго Светлана Сергеевна</Name>
+    <Telephone>7093</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>05 Правовое обеспечение и кадры</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Коновалов Сергей Леонидович</Name>
+    <Telephone>7050</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Уласик Денис Михайлович</Name>
+    <Telephone>7051</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Кузьмич Анастасия Ивановна</Name>
+    <Telephone>7054</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Алисиевич Юлия Петровна</Name>
+    <Telephone>7053</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>06 ПТО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Алешко Антон Александрович</Name>
+    <Telephone>7071</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Гринчик Надежда Владимировна</Name>
+    <Telephone>7072</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Колбаско Геннадий Владимирович</Name>
+    <Telephone>7073</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>07 АХО</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Семашко Яна Геннадьевна</Name>
+    <Telephone>7080</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Бородич Денис Васильевич</Name>
+    <Telephone>2780</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Бутько Кристина Александровна</Name>
+    <Telephone>2781</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Свирский Дмитрий Александрович</Name>
+    <Telephone>7081</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Спиридонов Сергей Александрович</Name>
+    <Telephone>2782</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Мороз Анна Владимировна</Name>
+    <Telephone>7082</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>08 ОАСУ </Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Хильман Наталья Викторовна</Name>
+    <Telephone>7060</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Денисюк Александр Александрович</Name>
+    <Telephone>7061</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Зорин Владимир Глебович</Name>
+    <Telephone>7100</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>09 ОТ и ПБ</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Лебедев Артур Владимирович</Name>
+    <Telephone>7020</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Шинкевич Виталий Викторович</Name>
+    <Telephone>7021</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Леготин Андрей Владимирович</Name>
+    <Telephone>7023</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Евстигнеев Юрий Николаевич</Name>
+    <Telephone>7024</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Вайтехович Владимир Владимирович</Name>
+    <Telephone>7022</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>10 Электротехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Стасенко Сергей Владимирович</Name>
+    <Telephone>7030</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Жук Владимир Тихонович</Name>
+    <Telephone>7031</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Ковалёв Владимир Михайлович</Name>
+    <Telephone>7032</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>11 Теплотехническая инспекция</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[*АУ] Захаревич Юрий Владимирович</Name>
+    <Telephone>7040</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Варонька Наталья Константиновна</Name>
+    <Telephone>7041</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>[АУ] Жилко Кирилл Александрович</Name>
+    <Telephone>7042</Telephone>
+    <Mobile/>
+    <Other/>
+    <Ring>Default</Ring>
+    <Group>12 Газовый надзор</Group>
+  </DirectoryEntry>
+</PhoneBook>

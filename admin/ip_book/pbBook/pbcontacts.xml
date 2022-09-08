@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vp_contact>
+  <root_group>
+    <group display_name="01 Приемная+ДО"/>
+    <group display_name="02 Руководство"/>
+    <group display_name="03 Бухгалтерия"/>
+    <group display_name="05 Правовое обеспечение и кадры"/>
+    <group display_name="10 Электротехническая инспекция"/>
+    <group display_name="11 Теплотехническая инспекция"/>
+    <group display_name="12 Газовый надзор"/>
+    <group display_name="06 ПТО"/>
+    <group display_name="09 ОТ и ПБ"/>
+    <group display_name="07 АХО"/>
+    <group display_name="08 ОАСУ "/>
+    <group display_name="13 Лаборатория"/>
+    <group display_name="14 Транспортные подразделения"/>
+    <group display_name="15 МрО"/>
+    <group display_name="16 РЭГИ"/>
+    <group display_name="17 Пусто1"/>
+    <group display_name="18 Пусто2"/>
+    <group display_name="19 Пусто3"/>
+    <group display_name="20 Пусто4"/>
+    <group display_name="21 Пусто5"/>
+    <group display_name="22 Прочие"/>
+    <group display_name="04 ПЭО"/>
+  </root_group>
+  <root_contact>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*БР] Ляхович Людмила Михайловна" office_number="1000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*БР] Горник Геннадий Иванович" office_number="1071" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*БР] Абрамчук Николай Викторович" office_number="1080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[БР] Казун Анатолий Семенович" office_number="1081" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[*БР] Бикетов Иван Петрович" office_number="1120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*БР] Головейко Иван Иванович" office_number="1110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Бр_Уп] Касьмина Вячеслав Алексеевич" office_number="1401" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Бр_Уп] Науменко Владимир Владимирович" office_number="1301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Пн_Уп] Лебедь Андрей Николаевич" office_number="1501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Бр_Уп] Куликовский Владимир Михайлович" office_number="1302" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Бр_Уп] Игнатович Елена Викторовна" office_number="1303" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[БР_Бр_Уп] Дмитрук Виктория Юрьевна" office_number="1300" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*БР] Дейко Олег Валерьевич" office_number="1001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[БР] Бакалкин Юрий Александрович" office_number="1002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[БР] Редько Евгений Иванович" office_number="1003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*БР] Аксенова Ирина Сергеевна" office_number="1004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[БР] Леванова Татьяна Игоревна" office_number="1011" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[БР] Сидорук Марина Евгеньевна" office_number="1012" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[БР] Пашко Алеся Сергеевна" office_number="1013" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[БР] Дорожко Вероника Михайловна" office_number="1101" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[БР] Байко Инна Васильевна" office_number="1100" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*БР] Гурина Ольга Валерьевна" office_number="1091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[БР] Тропец Ирина Анатольевна" office_number="1090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*БР] Циуля Сергей Александрович" office_number="1020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[БР] Педич Александр Викторович" office_number="1022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[БР] Зубрицкая Ольга Владимировна" office_number="1025" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[БР] Соловьева Лариса Ивановна" office_number="1021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*БР] Напреев Сергей Николаевич" office_number="1030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*БР] Савчук Александр Викторович" office_number="1040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*БР] Прокопчук Денис Васильевич" office_number="1050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*ВТ] Секретарь приемной руководителя" office_number="2000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*ВТ] Смольская Илона Александровна" office_number="2071" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[ВТ] Наумова Светлана Валерьевна" office_number="2072" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*ВТ] Севрюков Игорь Владимирович" office_number="2080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[ВТ] Стычинский Игорь Николаевич" office_number="2082" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[ВТ] Онухов Павел Семенович" office_number="2081" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[*ВТ] Пискунов Андрей Геннадьевич" office_number="2120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[ВТ] Девяткова Ксения Николаевна" office_number="2121" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*ВТ] Лобкович Владимир Михайлович" office_number="2110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Вт_Уп] Хатенько Константин Николаевич" office_number="2301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Гл_Уп] Латышонок Валерий Георгиевич" office_number="2401" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Пл_Уп] Кулагин Алексей Геннадьевич" office_number="2601" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Ор_Уп] Сорокин Владимир Владимирович" office_number="2501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Вт_Уп] Сазонов Иван Евгеньевич" office_number="2302" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Вт_Уп] Лапоухова Татьяна Владимировна" office_number="2300" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ВТ_Вт_Уп] Качан Анастасия Геннадьевна" office_number="2303" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*ВТ] Василевский Андрей Александрович" office_number="2001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ВТ] Квачонок Андрей Петрович" office_number="2002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ВТ] Красовский Антон Федорович" office_number="2003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*ВТ] Якубенко Степан Иванович" office_number="2102" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[ВТ] Демидова Марина Викторовна" office_number="2101" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*ВТ] Лапехо Юлия Константиновна" office_number="2004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ВТ] Гуринова Светлана Валерьевна" office_number="2011" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ВТ] Венскович Алла Францевна" office_number="2012" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ВТ] Спиридонова Екатерина Леонидовна" office_number="2013" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*ВТ] Семашко Дмитрий Михайлович" office_number="2092" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[ВТ] Морозова Анна Федоровна" office_number="2091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[ВТ] Лерман Диана Станиславовна" office_number="2093" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*ВТ] Костянко Андрей Григорьевич" office_number="2005" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ВТ] Редьков Алексей Михайлович" office_number="2020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ВТ] Банифатова Татьяна Сергеевна" office_number="2022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ВТ] Тяпко Александр Викторович" office_number="2021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ВТ] Барзов Виталий Сергеевич" office_number="2031" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*ВТ] Арлюкевич Роман Юрьевич" office_number="2030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*ВТ] Терлецкий Юрий Михайлович" office_number="2040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*ВТ] Пачковский Андрей Чеславович" office_number="2050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[ВТ] Грушина Светлана Анатольевна" office_number="2051" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[ВТ] Смолякова Ольга Александровна" office_number="2052" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*ВТ] Кротенок Василий Геннадьевич" office_number="2060" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*ГМ] Волкова Галина Васильевна" office_number="3000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*ГМ] Балащенко Светлана Петровна" office_number="3070" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*ГМ] Симаков Андрей Анатольевич" office_number="3080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[ГМ] Сопильняк Александр Александрович" office_number="3082" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[*ГМ] Петренко Владислав Николаевич" office_number="3120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*ГМ] Бродиневский Сергей Анатольевич" office_number="3110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Рч_Уп] Москвичев Виктор Викторович" office_number="3401" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Мз_Уп] Канаш Сергей Фёдорович" office_number="3501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Гм_Уп] Вержбовский Сергей Вадимович" office_number="3301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Жл_Уп] Кушнеров Александр Васильевич" office_number="3601" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Рч_Уп] Яремчук Владимир Васильевич" office_number="3402" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Мз_Уп] Харлан Михаил Вячеславович" office_number="3502" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Гм_Уп] Могилевчик Михаил Александрович" office_number="3302" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Жл_Уп] Проничева Светлана Валентиновна" office_number="3602" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Мз_Уп] Кузьмич Людмила Эрнстовна" office_number="3500" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Гм_Уп] Ерохова Ольга Петровна" office_number="3300" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Жл_Уп] Шацкая Инна Николаевна" office_number="3600" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГМ_Рч_Уп] Дворник Марина Геннадьевна" office_number="3400" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Ел] Перевозчиков Александр Владимирович" office_number="3510" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Жт] Черный Сергей Сергеевич" office_number="3520" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Кл] Иовчик Василий Петрович" office_number="3530" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Лл] Масло Николай Михайлович" office_number="3540" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Нр] Алексеенко Олег Иванович" office_number="3550" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Мз_Пт] Волосович Виктор Николаевич" office_number="3560" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Гм_Бд] Пырх Василий Павлович" office_number="3320" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Рч_Бр] Шульга Денис Иванович" office_number="3410" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Рч_Лв] Давыденко Юрий Аркадьевич" office_number="3420" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Рч_Хй] Гуцев Иван Иванович" office_number="3430" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Рч_Св] Кузнецов Игорь Григорьевич" office_number="3440" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Рч_Ок] Мельник Валерий Николаевич" office_number="3450" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Гм_Вт] Троянов Владимир Михайлович" office_number="3330" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Гм_Дб] Шевцов Вячеслав Александрович" office_number="3340" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Жл_Кр] Киреев Александр Климентьевич" office_number="3610" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Жл_Рг] Лепихов Александр Алексеевич" office_number="3620" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГМ_Жл_Чч] Колбасов Василий Григорьевич" office_number="3630" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*ГМ] Новацкий Семен Арсеньевич" office_number="3001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ГМ] Казак Вячеслав Анатольевич" office_number="3003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ГМ] Мастепанов Дмитрий Евгеньевич" office_number="3002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*ГМ] Калинина Татьяна Владимировна" office_number="3100" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*ГМ] Забродская Елена Анатольевна" office_number="3004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ГМ] Иваненко Александра Владимировна" office_number="3011" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*ГМ] Гришаев Андрей Евгеньевич" office_number="3090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[ГМ] Данич Виктория Викторовна" office_number="3091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*ГМ] Киселёв Николай Николаевич" office_number="3020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ГМ] Леташков Виталий Александрович" office_number="3021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ГМ] Цыганкова Галина Ивановна" office_number="3022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*ГМ] Житко Оксана Леонидовна" office_number="3030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*ГМ] Чуянов Сергей Владимирович" office_number="3040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*ГМ] Адарченко Ирина Петровна" office_number="3050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*ГМ] Плешкунов Денис Геннадьевич" office_number="3060" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="22 Прочие" display_name="[ГР] Щука Станислав Иванович" office_number="4340" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*ГР] Евсейчик Ядвига Феликсовна" office_number="4000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*ГР] Зенюк Иван Иванович" office_number="4070" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[ГР] Загорская Дарья Геннадьевна" office_number="4072" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*ГР] Канаев Александр Николаевич" office_number="4080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[ГР] Улейчик Юрий Валерьевич" office_number="4082" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[*ГР] Федорович Владимир Аркадьевич" office_number="4120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*ГР] Демиш Александр Валерьевич" office_number="4073" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Гр_Уп] Шока Иван Вацлавович" office_number="4401" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Ос_Уп] Харитонов Владимир Анатольевич" office_number="4601" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Вл_Уп] Селивонюк Елена Михайловна" office_number="4301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Вл_Уп] Нестерович Валерий Федорович" office_number="4302" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Гр_Уп] Якимович Дмитрий Михайлович" office_number="4402" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[ГР_Гр_Уп] Шурпа Татьяна Николаевна" office_number="4400" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГР_Гр_Гр] Рыжко Сергей Викторович" office_number="4460" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[ГР_Ос_См] Устинович Эдуард Владимирович" office_number="4670" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*ГР] Малиновский Александр Михайлович" office_number="4001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ГР] Хоружий Владимир Александрович" office_number="4002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[ГР] Деюк Виктор Геннадьевич" office_number="4003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*ГР] Карпуть Алексей Аркадьевич" office_number="4101" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[ГР] Яскевич Ольга Павловна" office_number="4102" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*ГР] Карпуть Марина Валерьевна" office_number="4004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ГР] Косолапова Инна Марковна" office_number="4014" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ГР] Аксенюк Галина Витольдовна" office_number="4013" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[ГР] Дубровская Дарья Олеговна" office_number="4012" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*ГР] Таянко Олег Александрович" office_number="4090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[ГР] Стельмашенко Анна Адамовна" office_number="4006" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[ГР] Чернюк Сергей Анатольевич" office_number="4092" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*ГР] Рушницкий Сергей Михайлович" office_number="4005" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[ГР] Коншин Александр Николаевич" office_number="4020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*ГР] Залога Андрей Антонович" office_number="4030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*ГР] Сошко Дмитрий Васильевич" office_number="4040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[ГР] Давкшис Екатерина Андреевна" office_number="4045" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[ГР] Шкленская Данута Тадеушевна" office_number="4049" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[ГР] Шока Андрей Иванович" office_number="4043" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*ГР] Косолапов Игорь Александрович" office_number="4050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[ГР] Стасюк Елена Эдуардовна" office_number="4054" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[ГР] Сильванович Надежда Владимировна" office_number="4053" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[ГР] Новичек Татьяна Александровна" office_number="4052" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*ГР] Карпук Геннадий Валентинович" office_number="4061" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="22 Прочие" display_name="[МГ] Глатанков Виталий Анатольевич" office_number="6350" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="22 Прочие" display_name="[МГ] Фещенко Виктор Васильевич" office_number="6790" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*МГ] Селицкая Светлана Ивановна" office_number="6000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*МГ] Кокотова Татьяна Леонидовна" office_number="6070" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*МГ] Юрков Андрей Викторович" office_number="6080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[МГ] Игнатович Артур Владимирович" office_number="6081" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="13 Лаборатория" display_name="[*МГ] Юшкевич Михаил Михайлович" office_number="6120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*МГ] Лыгин Александр Юрьевич" office_number="6110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МГ_Мг_Уп] Толкачев Сергей Николаевич" office_number="6301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МГ_Бб_Уп] Марчук Валерий Иванович" office_number="6501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МГ_Кр_Уп] Курбатов Вадим Олегович" office_number="6701" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[МГ_Кр_Чр] Леонов Игорь Николаевич" office_number="6780" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="16 РЭГИ" display_name="[МГ_Мг_Бл] Антонов Александр Сергеевич" office_number="6330" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*МГ] Бармотин Алексей Сергеевич" office_number="6001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[МГ] Секретарев Дмитрий Владимирович" office_number="6003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[МГ] Красновский Василий Васильевич" office_number="6002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*МГ] Горох Илона Сергеевна" office_number="6100" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*МГ] Москалева Юлия Николаевна" office_number="6004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[МГ] Сиваева Екатерина Николаевна" office_number="6010" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*МГ] Марченко Ольга Николаевна" office_number="6091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[МГ] Сычев Евгений Анатольевич" office_number="6090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*МГ] Семенов Владимир Михайлович" office_number="6020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[МГ] Щенников Евгений Анатольевич" office_number="6021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*МГ] Яковлева Татьяна Михайловна" office_number="6030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*МГ] Гончаров Алексанр Петрович" office_number="6040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*МГ] Леончик Александр Николаевич" office_number="6050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*МГ] Веретенникова Жанна Алексеевна" office_number="6060" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*МН] Дробышевская Ольга Александровна" office_number="5000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*МН] Боброва Татьяна Николаевна" office_number="5070" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*МН] Рвачев Юрий Валентинович" office_number="5080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[МН] Верас Дмитрий Федорович" office_number="5082" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[МН] Желобанов Андрей Валентинович" office_number="5083" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[МН] Пранович Вадим Викторович" office_number="5081" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="14 Транспортные подразделения" display_name="[*МН] Голован Алексей Александрович" office_number="5110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Мр_Уп] Воронцов Андрей Эрнестович" office_number="5304" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Мл_Уп] Бобрик Александр Павлович" office_number="5312" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Ст_Уп] Герасимович Анатолий Евгеньевич" office_number="5313" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Сл_Уп] Волот Николай Михайлович" office_number="5311" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Мн_Уп] Сухоцкий Игорь Леонидович" office_number="5302" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Мн_Пр] Швако Татьяна Владимировна" office_number="5303" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Бр_Уп] Шишпаренок Николай Николаевич" office_number="5310" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="15 МрО" display_name="[МН_Мн_Уп] Тростянко Наталья Борисовна" office_number="5301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*МН] Василевский Сергей Петрович" office_number="5001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[МН] Гулевич Александр Александрович" office_number="5002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[МН] Табунов Сергей Николаевич" office_number="5003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*МН] Чулаевская Ирина Александровна" office_number="5100" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*МН] Готенко Инна Юрьевна" office_number="5004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*МН] Королева Елена Анатольевна" office_number="5090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[МН] Алешкевич Лариса Григорьевна" office_number="5091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*МН] Афанасьев Михаил Григорьевич" office_number="5021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*МН] Кочергин Николай Сергеевич" office_number="5022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*МН] Кузнецов Вячеслав Александрович" office_number="5023" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*МН] Лысый Константин Федорович" office_number="5060" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[*АУ] Жук Татьяна Валерьевна" office_number="7005" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[АУ] Захаревич Ирина Ивановна" office_number="7000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="01 Приемная+ДО" display_name="[АУ] Селивонец Оксана Геннадьевна" office_number="7006" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[*АУ] Алешко Антон Александрович" office_number="7071" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[АУ] Гринчик Надежда Владимировна" office_number="7072" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="07 АХО" display_name="[АУ] Колбаско Геннадий Владимирович" office_number="7073" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[*АУ] Семашко Яна Геннадьевна" office_number="7080" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[АУ] Бородич Денис Васильевич" office_number="2780" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[АУ] Свирский Дмитрий Александрович" office_number="7081" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[АУ] Бутько Кристина Александровна" office_number="2781" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[АУ] Мороз Анна Владимировна" office_number="7082" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="08 ОАСУ " display_name="[АУ] Спиридонов Сергей Александрович" office_number="2782" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[*АУ] Озерец Александр Александрович" office_number="7001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[АУ] Лосенков Дмитрий Михайлович" office_number="7002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="02 Руководство" display_name="[АУ] Кнотько Егор Егорович" office_number="7003" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[*АУ] Петруша Людмила Валерьевна" office_number="7014" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="04 ПЭО" display_name="[АУ] Собалевская Марина Сергеевна" office_number="7015" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[*АУ] Слободкина Юлия Викторовна" office_number="7004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[АУ] Реентович Светлана Валерьевна" office_number="7012" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[АУ] Пунько Елена Николаевна" office_number="7010" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[АУ] Шерикова Татьяна Александровна" office_number="7013" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="03 Бухгалтерия" display_name="[АУ] Сидо Ольга Вячеславовна" office_number="7011" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[*АУ] Кухаренко Валерий Иванович" office_number="7090" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[АУ] Турло Александр Павлович" office_number="7091" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[АУ] Ситник Юлия Сергеевна" office_number="7094" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[АУ] Стебунова Лариса Степановна" office_number="7092" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="05 Правовое обеспечение и кадры" display_name="[АУ] Летяго Светлана Сергеевна" office_number="7093" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[*АУ] Лебедев Артур Владимирович" office_number="7020" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[АУ] Шинкевич Виталий Викторович" office_number="7021" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[АУ] Леготин Андрей Владимирович" office_number="7023" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[АУ] Евстигнеев Юрий Николаевич" office_number="7024" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="10 Электротехническая инспекция" display_name="[АУ] Вайтехович Владимир Владимирович" office_number="7022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[*АУ] Стасенко Сергей Владимирович" office_number="7030" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[АУ] Жук Владимир Тихонович" office_number="7031" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="11 Теплотехническая инспекция" display_name="[АУ] Ковалёв Владимир Михайлович" office_number="7032" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[*АУ] Захаревич Юрий Владимирович" office_number="7040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[АУ] Варонька Наталья Константиновна" office_number="7041" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="12 Газовый надзор" display_name="[АУ] Жилко Кирилл Александрович" office_number="7042" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[*АУ] Коновалов Сергей Леонидович" office_number="7050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[АУ] Уласик Денис Михайлович" office_number="7051" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[АУ] Кузьмич Анастасия Ивановна" office_number="7054" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="06 ПТО" display_name="[АУ] Алисиевич Юлия Петровна" office_number="7053" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[*АУ] Хильман Наталья Викторовна" office_number="7060" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[АУ] Денисюк Александр Александрович" office_number="7061" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="09 ОТ и ПБ" display_name="[АУ] Зорин Владимир Глебович" office_number="7100" mobile_number="" other_number="" default_photo="Resource:"/>
+  </root_contact>
+</vp_contact>
